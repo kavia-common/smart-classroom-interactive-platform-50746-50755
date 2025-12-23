@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-classroom-interactive-platform-50746-50755/learning_assessment_backend"
+}
